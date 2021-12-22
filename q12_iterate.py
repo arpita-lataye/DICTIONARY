@@ -4,5 +4,5 @@ d={'x':10,'y':20,'z':30}
 #     print(dict_key,'=',dict_value)
 
 
-for i in d:                 #'''this id easy method to iterate dictionary using for loop'''
+for i in d:                 #'''this is easy method to iterate dictionary using for loop'''
     print(i,'=',d[i])

@@ -6,3 +6,4 @@ key_min=min(d.keys(),key=(lambda k:d[k]))
 
 print('maximum value:',d[key_max])
 print('minimum value:',d[key_min])
+
